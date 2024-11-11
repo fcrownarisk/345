@@ -1,2 +1,2 @@
-import 345.bend
-import 345EQU.bend
+#include "345.bend"
+#include "345EQU.bend"
