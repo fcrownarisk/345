@@ -6,8 +6,13 @@
 #include "Switch.c"
 void Hub(){
  char base = "|_|";
+ 
  char emitter = "|/";
+ char emitter = "/|";
+ 
  char collector = "\|";
+ char collector = "|\";
+ 
  char EQU = "=";
  char Emp = "";
 }
