@@ -1,1 +1,6 @@
-
+Sub emitter
+'()'
+"<>"
+'[]'
+"{}"
+End Sub
